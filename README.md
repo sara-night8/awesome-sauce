@@ -52,6 +52,6 @@ The system then recommends relevant opportunities and explains:
 - FounderForge 
 - GitHub
 Grant Data Source:
-- Simpler.Grants.gov API
+- Simpler.Grants.gov API 
 
 
